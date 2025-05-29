@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "```\r desc: simple express server to serve static html, css, and js files \r ```",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
